@@ -1,13 +1,13 @@
 {
-  "name": "atom-ui-dark-modified-syntax",
+  "name": "atom-dark-modified-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "A dark syntax theme to compliment atom-dark-modified theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-ui-dark-modified-syntax",
+  "repository": "https://github.com/MordFustang21/atom-dark-modified-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
